@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wolvesbjja/static/css/main.d1bbf693.css",
+    "main.js": "/wolvesbjja/static/js/main.a26c72eb.js",
+    "static/js/453.3d96d69e.chunk.js": "/wolvesbjja/static/js/453.3d96d69e.chunk.js",
+    "index.html": "/wolvesbjja/index.html",
+    "main.d1bbf693.css.map": "/wolvesbjja/static/css/main.d1bbf693.css.map",
+    "main.a26c72eb.js.map": "/wolvesbjja/static/js/main.a26c72eb.js.map",
+    "453.3d96d69e.chunk.js.map": "/wolvesbjja/static/js/453.3d96d69e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1bbf693.css",
+    "static/js/main.a26c72eb.js"
+  ]
+}
